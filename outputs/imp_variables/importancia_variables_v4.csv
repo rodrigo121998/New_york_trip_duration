@@ -1,0 +1,13 @@
+,importance
+dropoff_latitude,284
+pickup_latitude,246
+dropoff_longitude,235
+pickup_longitude,200
+pickup_hour,46
+vendor_id_2,41
+pickup_weekday,30
+passenger_count,26
+pickup_month,21
+pickup_day,15
+pickup_min,12
+store_and_fwd_flag_Y,0
